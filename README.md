@@ -1,4 +1,4 @@
-Apple from Drones Detection Dataset - ADD 256
+Embrapa Apples by Drones Detection Dataset (Embrapa ADD 256)
 ================================================================
 
 [![DOI](https://zenodo.org/badge/419452503.svg)](https://zenodo.org/badge/latestdoi/419452503)
@@ -10,7 +10,7 @@ Motivation for Dataset Creation
 
 ### Why was the dataset created?
 
-Embrapa ADD 256 (*Apple from Drones Detection — 256 × 256*) was created
+Embrapa ADD 256 (*Apples by Drones Detection Dataset — 256 × 256*) was created
 to provide images and annotation for research on *apple detection in orchards for UAV-based monitoring in apple production. 
 
 ### What (other) tasks could the dataset be used for?
