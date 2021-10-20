@@ -1,6 +1,8 @@
 Apple from Drones Detection Dataset - ADD 256
 ================================================================
 
+[![DOI](https://zenodo.org/badge/419452503.svg)](https://zenodo.org/badge/latestdoi/419452503)
+
 This is a detailed description of the dataset, a data sheet for the dataset as proposed by [Gebru *et al.*](https://arxiv.org/abs/1803.09010)
 
 Motivation for Dataset Creation
