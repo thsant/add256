@@ -126,6 +126,9 @@ field. T. T. Santos performed the annotation.
 
 The circular markers were annotated using the [VGG Image Annotator (VIA)](https://www.robots.ox.ac.uk/~vgg/software/via/).
 
+**WARNING**: Find non-ripe apples in low-resolution images of orchards is a challenging task *even for humans*. ADD256 was annotated by a single 
+annotator. So, users of this dataset should consider it a *noisy dataset*. 
+
 
 Data Preprocessing
 ------------------
