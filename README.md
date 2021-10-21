@@ -109,12 +109,13 @@ Data Collection Process
 
 ### How was the data collected?
 
-The data was collected from orchards at the Experimental Station of Temperate Climate Fruit Culture 
-of Embrapa Grape and Wine in Vacaria-RS (28°30'58.2"S, 50°52'52.2"W). Plants of 
+The data employed in the development of the methodology came from a plot located
+at the Embrapa’s Temperate Climate Fruit Growing Experimental Station at Vacaria-RS
+(28°30’58.2”S, 50°52’52.2”W). Plants of 
 the varieties _Fuji_ and _Gala_ are present in the dataset, in equal proportions. The images were 
 taken during December 13, 2018, by an UAV (DJI Phantom 4 Pro) that flew over the rows of 
 the field at a height of 12 m. The images mix nadir and non-nadir views, allowing a more extensive view of the 
-canopies. A subset from the images was randomly selected and 256 × 256 pixels *patches* were extracted.
+canopies. A subset from the images was random selected and 256 × 256 pixels *patches* were extracted.
 
 ### Who was involved in the data collection process?
 
