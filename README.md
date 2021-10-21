@@ -5,6 +5,8 @@ Embrapa Apples by Drones Detection Dataset (Embrapa ADD 256)
 
 This is a detailed description of the dataset, a data sheet for the dataset as proposed by [Gebru *et al.*](https://arxiv.org/abs/1803.09010)
 
+![ADD256 Banner](repository-open-graph-template.png)
+
 Motivation for Dataset Creation
 -------------------------------
 
