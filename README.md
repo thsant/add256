@@ -109,7 +109,7 @@ Data Collection Process
 
 ### How was the data collected?
 
-The data employed in the development of the methodology came from a plot located
+The data employed in the development of the methodology came from two plots located
 at the Embrapa’s Temperate Climate Fruit Growing Experimental Station at Vacaria-RS
 (28°30’58.2”S, 50°52’52.2”W). Plants of 
 the varieties _Fuji_ and _Gala_ are present in the dataset, in equal proportions. The images were 
