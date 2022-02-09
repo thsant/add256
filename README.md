@@ -101,8 +101,7 @@ and [Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC).
 
 ### What experiments were initially run on this dataset? 
 
-The first experiments run on this dataset are described in [*A methodology for detection 
-and location of fruits in apples orchards from aerial images*](https://sol.sbc.org.br/index.php/sbiagro/article/view/18369)
+The first experiments run on this dataset are described in [*A methodology for detection and localization of fruits in apples orchards from aerial images *](https://sol.sbc.org.br/index.php/sbiagro/article/view/18369)
 by Santos & Gebler (2021).
 
 Data Collection Process 
